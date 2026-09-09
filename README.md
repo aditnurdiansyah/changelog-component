@@ -25,3 +25,17 @@ The project focuses on building a semantic and accessible web component while ap
 
 * **Interactive Elements**
   Include JavaScript functionality for dynamic behaviors such as category filtering (e.g., Features, Fixes, Improvements) or interactive UI state toggles.
+
+## Project Structure
+
+* **Homepage (`index.html`)**
+  The primary HTML document containing the changelog feed, filter buttons, version tags, and release details.
+
+* **Styles (`css/style.css`)**
+  Contains custom CSS styling, layout positioning, responsive media queries, typography, and visual enhancements.
+
+* **Scripts (`js/script.js`)**
+  Handles client-side interactivity, event listeners, and dynamic UI updates.
+
+* **Assets (`assets/`)**
+  Directory containing project assets including `favicon/`, `logo/`, `open-graph/`, and `project-preview.png`.
