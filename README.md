@@ -78,6 +78,12 @@ This project provides practical experience in developing a practical Changelog C
 
 By completing this project, the component serves as a solid building block for product documentation, release note feeds, and portfolio showcases.
 
+## Project Preview
+
 <p align="center">
   <img src="/assets/project-preview.png" alt="Project Preview" width="800">
 </p>
+
+This repository contains frontend projects built following the [Roadmap.sh](https://roadmap.sh/projects/changelog-component) frontend developer path.
+
+---
