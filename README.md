@@ -53,3 +53,21 @@ The project focuses on building a semantic and accessible web component while ap
 * [x] Use Google Fonts to enhance typography.
 * [x] Add support for dark mode using CSS variables.
 * [x] JavaScript integration.
+
+## How to Use
+
+1. Clone or download this repository.
+
+```bash
+git clone https://github.com/aditnurdiansyah/changelog-component
+```
+
+2. Navigate to the project folder.
+
+```bash
+cd changelog-component
+```
+
+3. Open `index.html` in your browser.
+
+4. Customize the changelog entries, version tags, and styling based on your product needs.
