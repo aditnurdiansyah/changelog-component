@@ -39,3 +39,17 @@ The project focuses on building a semantic and accessible web component while ap
 
 * **Assets (`assets/`)**
   Directory containing project assets including `favicon/`, `logo/`, `open-graph/`, and `project-preview.png`.
+
+## Submission Checklist
+
+* [x] Semantically structured HTML pages.
+* [x] SEO meta tags implemented.
+* [x] Open Graph tags included.
+* [x] Favicon configured.
+* [x] Responsive changelog component layout.
+* [x] Interactive filtering / UI functionality via JavaScript.
+* [x] Consistent use of a chosen color scheme and typography.
+* [x] Proper use of CSS techniques like Flexbox, media queries, and the box model.
+* [x] Use Google Fonts to enhance typography.
+* [x] Add support for dark mode using CSS variables.
+* [x] JavaScript integration.
